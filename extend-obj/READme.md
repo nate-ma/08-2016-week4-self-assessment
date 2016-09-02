@@ -32,7 +32,7 @@ console.log(Jon);
 * [X] Build `extendObj` using `loop`.
 
 EXTRA CREDIT: 
-* [ ] Expand `extendObj` to be able to extend the first object by as many objects that are passed in.
+* [X] Expand `extendObj` to be able to extend the first object by as many objects that are passed in.
 
 ```
 var Jon = {name: "Jon", fear: "koala bears"};
