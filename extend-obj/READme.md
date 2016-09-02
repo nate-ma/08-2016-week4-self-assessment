@@ -27,9 +27,9 @@ console.log(Jon);
 
 ```
 
-* [ ] Build `loop`. Please don't refer back to how we've written loop in previous sprints or slides.
+* [X] Build `loop`. Please don't refer back to how we've written loop in previous sprints or slides.
 
-* [ ] Build `extendObj` using `loop`.
+* [X] Build `extendObj` using `loop`.
 
 EXTRA CREDIT: 
 * [ ] Expand `extendObj` to be able to extend the first object by as many objects that are passed in.
@@ -47,4 +47,3 @@ console.log(Jon);
 
 
 ```
-

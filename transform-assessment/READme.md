@@ -4,9 +4,10 @@ We built `transform` but it does not work. Why? Debugging time! You are tasked w
 
 Please do this problem without referring back to exactly how we built transform in previous sprints/slides.
 
-* [ ] Build `loop` (or copy what you wrote in the Extend Obj prompt to define loop here).
+* [X] Build `loop` (or copy what you wrote in the Extend Obj prompt to define loop here).
 
-* [ ] Debug `transform`.
+* [X] Debug `transform`.
 
-* [ ] Test your `transform` function using the test case given.
+* [X] Test your `transform` function using the test case given.
+
 

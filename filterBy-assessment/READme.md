@@ -28,10 +28,10 @@ var evenNumbers = filterBy(numbers, isEven);
 console.log(evenNumbers) // [2, 4];
 
 ```
-* [ ] Build `loop` (or copy what you wrote in the Extend Obj prompt to define loop here).
+* [X] Build `loop` (or copy what you wrote in the Extend Obj prompt to define loop here).
 
-* [ ] use filterBy on the `numbers collection` to return an array of odd numbers.
+* [X] use filterBy on the `numbers collection` to return an array of odd numbers.
 
-* [ ] use filterBy on the `numbers collection` to return an array of numbers that are smaller than the threshold.
+* [X] use filterBy on the `numbers collection` to return an array of numbers that are smaller than the threshold.
 
-* [ ] use filterBy on the `people collection` to return an array of names who's age is between 27 and 35.
+* [X] use filterBy on the `people collection` to return an array of names who's age is between 27 and 35.
